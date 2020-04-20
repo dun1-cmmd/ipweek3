@@ -36,6 +36,8 @@
      font-weight: bold;
       padding: 20px;
       text-align: center;
+      background-image: url(welcome.jpg), url(welcome.jpg);
+    
       
 
  }
@@ -50,5 +52,4 @@ padding: 20px;
 text-align: center;
  }
 
- 
  
